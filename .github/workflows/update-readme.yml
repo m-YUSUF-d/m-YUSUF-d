@@ -14,7 +14,7 @@ jobs:
       - name: Update README with Medium posts
         uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: https://medium.com/feed/@develioglualparslan
+          feed-url: https://medium.com/feed/@mYUSUFd
           readme-section: BLOG-POST-LIST
           limit: 5  # Sadece son 5 yazı
 
