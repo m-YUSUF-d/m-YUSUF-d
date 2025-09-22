@@ -1,0 +1,24 @@
+name: Update README with Medium RSS Feed
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Her gün saat 08:00'de çalışır
+  workflow_dispatch: # İster manuel de çalıştırabilirsin
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Update README with Medium posts
+        uses: JasonEtco/rss-to-readme@v2
+        with:
+          feed-url: https://medium.com/feed/@mYUSUFd
+          readme-section: BLOG-POST-LIST
+          limit: 5  # Sadece son 5 yazı
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
