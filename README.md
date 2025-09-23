@@ -1,5 +1,12 @@
+<p align="center">
+<img align="center" src="Assets/Gif.gif" width="500" />
+</p>
+
+---
+
+
 <h1 align="center">Hi 👋, I'm Mustafa Yusuf Daşdemir</h1>
-<h3 align="center">A game developer from Türkiye</h3>
+<h3 align="left">A game developer from Türkiye</h3>
 
 ---
 
@@ -10,23 +17,24 @@
 
 ---
 
+
 ### 🛠 Languages and Tools
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
-&nbsp;&nbsp;
-[<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>](https://www.blender.org/)
-&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/)
-&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>](https://www.w3schools.com/cs/)
-&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
 &nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/)
+&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
+&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>](https://unity.com/)
+&nbsp;&nbsp;
+[<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>](https://www.blender.org/)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
 
 ---
 
@@ -37,14 +45,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-yusuf-d&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-
-
-
 
 
 <h3 align="center">🏆 Extras</h3>
