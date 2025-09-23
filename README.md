@@ -31,19 +31,15 @@
 ---
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
-<div align="center">
-  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en)
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=m-yusuf-d&show_icons=true&theme=dark&locale=en&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-yusuf-d&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
