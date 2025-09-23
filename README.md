@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Mustafa Yusuf Daşdemir</h1>
 <p align="center">
 <img align="center" src="Assets/Gif.gif" width="500" />
 </p>
@@ -5,8 +6,12 @@
 ---
 
 
-<h1 align="center">Hi 👋, I'm Mustafa Yusuf Daşdemir</h1>
-<h3 align="left">A game developer from Türkiye</h3>
+## 🕹️ About Me
+- 🎓 Computer Engineering student at **Bursa Technical University**  
+- 🎮 Interested in **game development** with **Unity & C#**  
+- 🗡️ Developing an **FPS sword-fighting game** as a personal project  
+- 🚀 Motivated to improve in **game design, programming, and problem-solving**  
+- 🌍 Open to collaboration and always learning new technologies  
 
 ---
 
