@@ -46,13 +46,10 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Streak Stats" />
-</p>
-
-
-
+<div style="display: inline-block; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Streak Stats" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-yusuf-d&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
