@@ -47,10 +47,11 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 
 </p>
+
 
 
 
