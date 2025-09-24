@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" style="width:400px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" style="width:400px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" style="width:385px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" style="width:410px;" />
 </p>
 
 
