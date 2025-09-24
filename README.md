@@ -48,16 +48,14 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=m-yusuf-d&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
     </td>
-    <td>
+    <td align="center" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Streak Stats" />
     </td>
   </tr>
 </table>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-yusuf-d&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
@@ -83,7 +81,7 @@
 <h3 align="center">🌐 Connect with me</h3>
 <div align="center">
   
- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">](https://linkedin.com/in/mustafa-yusuf-dasdemir)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">](https://linkedin.com/in/mustafa-yusuf-dasdemir)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30">](https://instagram.com/mysf_dsdmr25)
 &nbsp;&nbsp;
