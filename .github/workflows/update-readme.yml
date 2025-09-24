@@ -3,7 +3,7 @@ name: Update README with Medium RSS Feed
 on:
   schedule:
     - cron: '0 8 * * *' # Her gün saat 08:00'de çalışır
-  workflow_dispatch: # İster manuel de çalıştırabilirsin
+  workflow_dispatch: # Manuel çalıştırma
 
 jobs:
   update-readme:
@@ -16,7 +16,11 @@ jobs:
         with:
           feed-url: https://medium.com/feed/@mYUSUFd
           readme-section: BLOG-POST-LIST
-          limit: 5  # Sadece son 5 yazı
+          max: 5  # Sadece son 5 yazı
+          template: "* [{{ title }}]({{ link }})"
+          path: README.md
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          empty-commits: true
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
