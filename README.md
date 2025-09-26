@@ -17,8 +17,8 @@
 
 
 ### ✍️ Blog Posts
-<!-- BLOG-POST-LIST start -->
-<!-- BLOG-POST-LIST end -->
+<!-- MEDIUM_POSTS_START -->
+<!-- MEDIUM_POSTS_END -->
 
 ---
 
