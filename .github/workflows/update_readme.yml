@@ -1,0 +1,43 @@
+name: Update README with latest Medium posts
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 8 * * *'   # Her gün 08:00 UTC'de çalışır
+  workflow_dispatch: {}     # Manuel tetikleme
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
+
+      - name: Fetch Medium posts and update README
+        env:
+          MEDIUM_USERNAME: "myusufd"
+          POSTS_COUNT: '5'
+        run: |
+          python scripts/fetch_medium.py
+
+      - name: Commit updated README
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore(readme): update latest Medium posts"
+          add: "README.md"
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
