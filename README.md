@@ -18,7 +18,6 @@
 
 ### ✍️ Blog Posts
 <!-- MEDIUM_POSTS_START -->
-- (Gösterilecek yazı bulunamadı.)
 <!-- MEDIUM_POSTS_END -->
 
 ---
