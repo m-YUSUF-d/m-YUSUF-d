@@ -2,8 +2,7 @@
 import os
 import re
 from html import unescape
-
-import feedparser
+import feedparser # type: ignore
 
 # Medium kullanıcı adın – Türkçe karakter veya boşluk olmamalı
 MEDIUM_USERNAME = "MustafaYusufDasdemir"
