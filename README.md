@@ -4,7 +4,7 @@
 </p>
 
 ---
-
+ 
 
 ## 🕹️ About Me
 - 🎓 Computer Engineering student at **Bursa Technical University**  
@@ -16,7 +16,7 @@
 ---
 
 
-### ✍️ Blog Posts
+### ✍️ Blog Posts 
 <!-- MEDIUM_POSTS_START -->
 - [Oyun Geliştirmeye Nereden Başlamalıyım?](https://medium.com/@MustafaYusufDasdemir/oyun-geli%C5%9Ftirmeye-nereden-ba%C5%9Flamal%C4%B1y%C4%B1m-a446097ea4c9?source=rss-ae344f912ba5------2) — Hepimiz hayatımız boyunca sayısız oyun oynadık: FPS’ler, yarış oyunları, RPG’ler ya da platformer’lar… Peki hiç “Bu...
 <!-- MEDIUM_POSTS_END -->
