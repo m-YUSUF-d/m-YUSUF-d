@@ -66,15 +66,6 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 ---
 
 
-## 🏆 Extras</h3>
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=m-YUSUF-d&theme=aura&no-frame=false&no-bg=true&margin-w=5" alt="m-yusuf-d" /> 
-</p>
-
----
-
-
 <h3 align="center">🌐 Connect with me</h3>
 <div align="center">
   
@@ -86,4 +77,3 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 
 </div>
 
----
