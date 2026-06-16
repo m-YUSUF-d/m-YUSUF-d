@@ -8,7 +8,7 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<img align="center" src="Assets/Gif.gif" width="650" />
+<img align="center" src="Assets/Gif.gif" width="550" />
 </p>
 
 ---
@@ -74,6 +74,8 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 [<img src="Assets/Logos/instagram.svg" alt="Instagram" height="30" width="30">](https://instagram.com/mysf_dsdmr25)
 &nbsp;&nbsp;
 [<img src="Assets/Logos/medium.svg" alt="Medium" height="30" width="30">](https://medium.com/@MustafaYusufDasdemir)
+&nbsp;&nbsp;
+[<img src="Assets/Logos/itchio.svg" alt="itch.io" height="30" width="30">](https://m-yusuf-d.itch.io/)
 
 </div>
 
