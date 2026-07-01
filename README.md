@@ -10,8 +10,13 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Stats" width="325"/> 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m-YUSUF-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="325"/>
 </p>
+
 <p align="center">
-Hljhdslagşldgslşada
+<blockquote><i>
+<!-- DAILY_FACT_START -->
+OLD TEXT HERE
+<!-- DAILY_FACT_END -->
+</i></blockquote>
 </p>  
 
 ---

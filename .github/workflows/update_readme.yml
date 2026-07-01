@@ -39,7 +39,9 @@ jobs:
           ls -la
                
       - name: Run script
-        run: python fetch_medium.py
+        run: |
+            python fetch_medium.py
+            python update_facts.py
         continue-on-error: false  # Hata varsa dursun ki görebilelim
       
       - name: Check for changes
