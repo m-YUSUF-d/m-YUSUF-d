@@ -12,8 +12,9 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i><!-- DAILY_FACT_START -->A compiler translates source code into machine code.<!-- DAILY_FACT_END --></i></code>  
-</p>
+<code><i>"<!-- DAILY_FACT_START -->A compiler translates source code into machine code.<!-- DAILY_FACT_END -->"</i></code>  
+</p>  
+
 ---
  
 

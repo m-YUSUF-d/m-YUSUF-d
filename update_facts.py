@@ -50,7 +50,7 @@ def choose_new_fact(facts, current_fact):
 def update_readme(readme_text, new_fact):
     pattern = f"{START_TAG}(.*?){END_TAG}"
 
-    replacement = f"{START_TAG}\n{new_fact}\n{END_TAG}"
+    replacement = f"{START_TAG}{new_fact}{END_TAG}"
 
     if re.search(pattern, readme_text, re.DOTALL):
         updated = re.sub(pattern, replacement, readme_text, flags=re.DOTALL)

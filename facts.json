@@ -3,5 +3,31 @@
   "Big-O notation describes algorithm complexity.",
   "HTTP is stateless.",
   "A compiler translates source code into machine code.",
-  "REST APIs are stateless by design."
+  "REST APIs are stateless by design.",
+
+  "Game engines handle rendering, physics, and input systems.",
+  "Unity uses C# as its primary scripting language.",
+  "A game loop runs continuously while the game is active.",
+  "Delta time is used to make movement frame-rate independent.",
+  "Physics engines simulate real-world forces like gravity and collision.",
+
+  "Pixel art games use low-resolution textures for stylistic visuals.",
+  "Tile-based maps are commonly used in 2D game development.",
+  "Object pooling improves performance by reusing game objects.",
+  "Animation blending allows smooth transitions between animations.",
+  "Pathfinding algorithms like A* are used for NPC movement.",
+
+  "Frame rate determines how smooth a game feels.",
+  "Input systems map player actions to in-game responses.",
+  "Shaders control how graphics are rendered on screen.",
+  "Level design is crucial for player experience and engagement.",
+  "Game optimization reduces lag and improves performance.",
+
+  "NPC behavior is often controlled using finite state machines.",
+  "Procedural generation creates content algorithmically instead of manually.",
+  "Collision detection determines when game objects interact.",
+  "Lighting systems enhance atmosphere and realism in games.",
+  "Save systems store player progress persistently.",
+
+  "Multiplayer games require synchronization between clients and servers."
 ]
