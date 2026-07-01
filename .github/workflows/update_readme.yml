@@ -2,7 +2,7 @@ name: Update Medium Posts
 
 on:
   schedule:
-    - cron: '1 */12 * * *'  # Her 12 saatte bir çalışır
+    - cron: '1 21 * * *'  # Her saat 00.01'de çalışır
   workflow_dispatch:  # Manuel tetikleme için
   push:
     branches:
@@ -55,7 +55,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "📝 Medium yazıları güncellendi - $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "📝 Günün notu güncellendi, güncel medium yazıları kontrol edildi. - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
       
       - name: No changes detected
