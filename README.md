@@ -1,15 +1,15 @@
 <p align="center"> 
 <h1 align="left">
-
 Hi 👋, I'm Mustafa Yusuf Daşdemir 
 <img  align="right" src="https://komarev.com/ghpvc/?username=m-yusuf-d&label=Profile%20views&color=0e75b6&style=flat" alt="m-yusuf-d" /> 
-
 </h1>
 </p>
 
 <p align="center">
-<img align="center" src="Assets/Gif.gif" width="550" />
-</p>
+<img align="left" src="Assets/Gif.gif" width="500">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m-YUSUF-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="250"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Stats" width="250"/>
+</p>  
 
 ---
  
