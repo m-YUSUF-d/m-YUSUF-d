@@ -12,11 +12,11 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<blockquote><i>
+<code><i>
 <!-- DAILY_FACT_START -->
 OLD TEXT HERE
 <!-- DAILY_FACT_END -->
-</i></blockquote>
+</i></code>
 </p>  
 
 ---
