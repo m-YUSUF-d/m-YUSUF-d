@@ -11,7 +11,9 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m-YUSUF-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="325"/>
 </p>
 
-<code><i><!-- DAILY_FACT_START -->A compiler translates source code into machine code.<!-- DAILY_FACT_END --></i></code>  
+<code><i><!-- DAILY_FACT_START -->
+Big-O notation describes algorithm complexity.
+<!-- DAILY_FACT_END --></i></code>  
 
 ---
  
