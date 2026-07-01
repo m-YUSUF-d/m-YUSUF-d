@@ -7,8 +7,11 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 
 <p align="center">
 <img align="left" src="Assets/Gif.gif" width="500">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m-YUSUF-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="250"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Stats" width="250"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" alt="Stats" width="325"/> 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m-YUSUF-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="325"/>
+</p>
+<p align="center">
+Hljhdslagşldgslşada
 </p>  
 
 ---
@@ -17,7 +20,7 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 ## 🕹️ About Me
 - 🎓 Computer Engineering student at **Bursa Technical University**  
 - 🎮 Interested in **game development** with **Unity & C#**  
-- 🗡️ Developing an **Pixel art farming game** as a personal project  
+- 🌱 Developing an **Pixel art farming game** as a personal project  
 - 🚀 Motivated to improve in **game design, programming, and problem-solving**  
 - 🌍 Open to collaboration and always learning new technologies  
 
@@ -48,20 +51,6 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 [<img src="Assets/Logos/Unity.svg" alt="unity" width="40" height="40"/>](https://unity.com/)
 &nbsp;&nbsp;
 [<img src="Assets/Logos/android.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
-
----
-
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=m-YUSUF-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width:380px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yusuf-d&theme=dark" style="width:415px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m-YUSUF-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 
