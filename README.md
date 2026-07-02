@@ -37,8 +37,9 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 ---
 
 
-## 🛠 Languages and Tools
-
+<h3 align="center">🛠 Languages and Tools</h3>
+<div align="center">
+ 
 [<img src="Assets/Logos/csharp.svg" alt="csharp" width="40" height="40"/>](https://www.w3schools.com/cs/)
 &nbsp;&nbsp;
 [<img src="Assets/Logos/java.svg" alt="java" width="40" height="40"/>](https://www.java.com)
@@ -52,7 +53,8 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 [<img src="Assets/Logos/Unity.svg" alt="unity" width="40" height="40"/>](https://unity.com/)
 &nbsp;&nbsp;
 [<img src="Assets/Logos/android.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
-
+</div>  
+ 
 ---
 
 
