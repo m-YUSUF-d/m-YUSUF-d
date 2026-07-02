@@ -4,9 +4,7 @@ on:
   schedule:
     - cron: '1 21 * * *'  # Her saat 00.01'de çalışır
   workflow_dispatch:  # Manuel tetikleme için
-  push:
-    branches:
-      - main  # Main branch'e push olunca test et
+
 
 permissions:
   contents: write  # README.md'yi güncellemek için gerekli
