@@ -12,7 +12,7 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->REST APIs are stateless by design.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Procedural generation creates content algorithmically instead of manually.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
