@@ -1,4 +1,4 @@
-name: Update Medium Posts
+name: Update Daily Note and Medium Posts
 
 on:
   schedule:
@@ -50,8 +50,8 @@ jobs:
       - name: Commit and push if changed
         if: steps.check_changes.outputs.changed == 'true'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "mydasdemir229@gmail.com"
+          git config --local user.name "m-yusuf-d"
           git add README.md
           git commit -m "📝 Günün notu güncellendi, güncel medium yazıları kontrol edildi. - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
