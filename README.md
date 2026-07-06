@@ -12,7 +12,7 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Tile-based maps are commonly used in 2D game development.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Game engines handle rendering, physics, and input systems.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
