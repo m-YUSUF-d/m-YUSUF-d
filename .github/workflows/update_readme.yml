@@ -2,7 +2,7 @@ name: Update Daily Note and Medium Posts
 
 on:
   schedule:
-    - cron: '1 21 * * *'  # Her saat 00.01'de çalışır
+     - cron: '5 0 * * *'  # Her saat 00.05'de çalışır
   workflow_dispatch:  # Manuel tetikleme için
 
 
