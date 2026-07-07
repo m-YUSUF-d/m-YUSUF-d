@@ -12,7 +12,7 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Game engines handle rendering, physics, and input systems.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Pixel art games use low-resolution textures for stylistic visuals.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
