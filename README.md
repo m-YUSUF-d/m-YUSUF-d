@@ -12,7 +12,7 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Multiplayer games require synchronization between clients and servers.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Lighting systems enhance atmosphere and realism in games.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
