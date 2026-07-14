@@ -1,10 +1,4 @@
 [
-  "Git stores snapshots, not differences.",
-  "Big-O notation describes algorithm complexity.",
-  "HTTP is stateless.",
-  "A compiler translates source code into machine code.",
-  "REST APIs are stateless by design.",
-
   "Game engines handle rendering, physics, and input systems.",
   "Unity uses C# as its primary scripting language.",
   "A game loop runs continuously while the game is active.",
@@ -29,5 +23,84 @@
   "Lighting systems enhance atmosphere and realism in games.",
   "Save systems store player progress persistently.",
 
-  "Multiplayer games require synchronization between clients and servers."
+  "Multiplayer games require synchronization between clients and servers.",
+
+  
+
+  "Cache-friendly data layouts often outperform object-oriented designs.",
+  "Data-Oriented Design (DOD) improves CPU cache efficiency.",
+  "Entity Component System (ECS) separates data from behavior.",
+  "GPU bottlenecks cannot be solved by optimizing CPU code alone.",
+  "Draw calls are often more expensive than polygon count.",
+  "Instancing allows thousands of identical objects to be rendered efficiently.",
+  "Occlusion culling skips rendering objects hidden from the camera.",
+  "Frustum culling prevents off-screen objects from being rendered.",
+  "Level of Detail (LOD) reduces rendering cost for distant objects.",
+  "Texture atlases reduce material switches and draw calls.",
+
+  "Avoid frequent memory allocations during gameplay.",
+  "Garbage collection spikes can cause visible frame drops.",
+  "Profiling should guide optimization, not assumptions.",
+  "Premature optimization can waste valuable development time.",
+  "Optimize the slowest systems first for maximum impact.",
+
+  "Multithreading is useful only when synchronization costs are justified.",
+  "Asynchronous loading prevents gameplay interruptions.",
+  "Streaming assets allows seamless open-world experiences.",
+  "Job systems maximize CPU utilization across multiple cores.",
+  "Burst compilation can significantly improve C# performance.",
+
+  "Network latency should be hidden using prediction techniques.",
+  "Client-side prediction improves multiplayer responsiveness.",
+  "Server authority prevents many forms of cheating.",
+  "Lag compensation helps create fair online gameplay.",
+  "Rollback netcode improves responsiveness in competitive games.",
+
+  "Floating-point precision decreases farther from the world origin.",
+  "Large worlds often require floating origin systems.",
+  "Deterministic simulations simplify multiplayer synchronization.",
+  "Fixed timestep simulations improve physics consistency.",
+  "Interpolation smooths movement between network updates.",
+
+  "Shaders execute massively in parallel on the GPU.",
+  "Compute shaders are ideal for GPU-heavy calculations.",
+  "Physically Based Rendering (PBR) improves material realism.",
+  "Normal maps simulate surface detail without extra geometry.",
+  "Mipmaps improve texture performance and reduce aliasing.",
+
+  "Good architecture makes features easier to extend than rewrite.",
+  "Loose coupling improves code maintainability.",
+  "Composition is generally more flexible than inheritance.",
+  "Dependency Injection simplifies testing and modularity.",
+  "Event-driven systems reduce unnecessary object dependencies.",
+
+  "Finite State Machines work well for simple AI behaviors.",
+  "Behavior Trees scale better for complex AI logic.",
+  "Navigation meshes provide efficient pathfinding environments.",
+  "Spatial partitioning accelerates collision detection.",
+  "QuadTrees and Octrees reduce expensive world searches.",
+
+  "A stable frame time is more important than a high average FPS.",
+  "Input latency directly affects gameplay feel.",
+  "Small visual feedback greatly improves player satisfaction.",
+  "Every millisecond saved per frame matters on mobile devices.",
+  "Optimization is a continuous process, not a final step.",
+
+
+  
+  "False sharing can destroy multithreaded performance.",
+  "Branch prediction failures increase CPU execution cost.",
+  "SIMD instructions process multiple data elements simultaneously.",
+  "Memory bandwidth is often the real performance bottleneck.",
+  "Cache misses are usually more expensive than arithmetic operations.",
+  "GPU overdraw wastes fill rate on hidden pixels.",
+  "Bindless rendering reduces CPU overhead in modern graphics APIs.",
+  "Frame pacing is as important as frame rate.",
+  "Command buffers reduce rendering API overhead.",
+  "Indirect rendering allows the GPU to generate draw calls.",
+  "Temporal Anti-Aliasing relies on information from previous frames.",
+  "Clustered rendering scales better than forward rendering with many lights.",
+  "Deferred rendering handles many dynamic lights efficiently.",
+  "GPU profiling is essential for graphics optimization.",
+  "Data locality often matters more than algorithm complexity in real-time systems."
 ]

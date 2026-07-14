@@ -1,6 +1,6 @@
 <p align="center"> 
 <h1 align="left">
-Hi 👋, I'm Mustafa Yusuf Daşdemir 
+Hi there👋, I'm Mustafa Yusuf Daşdemir 
 <img  align="right" src="https://komarev.com/ghpvc/?username=m-yusuf-d&label=Profile%20views&color=0e75b6&style=flat" alt="m-yusuf-d" /> 
 </h1>
 </p>
@@ -67,7 +67,7 @@ Hi 👋, I'm Mustafa Yusuf Daşdemir
 &nbsp;&nbsp;
 [<img src="Assets/Logos/medium.svg" alt="Medium" height="30" width="30">](https://medium.com/@MustafaYusufDasdemir)
 &nbsp;&nbsp;
-[<img src="Assets/Logos/itchio.svg" alt="itch.io" height="30" width="30">](https://m-yusuf-d.itch.io/)
+[<img src="Assets/Logos/itchio.svg" alt="itch.io" height="30" width="30">](https://aerofocus-studio.itch.io/)
 
 </div>
 
