@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Git stores snapshots, not differences.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Good architecture makes features easier to extend than rewrite.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
