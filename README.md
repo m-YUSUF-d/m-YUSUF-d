@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->NPC behavior is often controlled using finite state machines.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Level of Detail (LOD) reduces rendering cost for distant objects.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
