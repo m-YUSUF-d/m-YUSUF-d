@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->GPU bottlenecks cannot be solved by optimizing CPU code alone.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Finite State Machines work well for simple AI behaviors.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
