@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Instancing allows thousands of identical objects to be rendered efficiently.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Physically Based Rendering (PBR) improves material realism.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
