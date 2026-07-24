@@ -21,7 +21,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 ## 🕹️ About Me
 - 🎓 Computer Engineering student at **Bursa Technical University**  
 - 🎮 Interested in **game development** with **Unity & C#**  
-- 🌱 Developing an **Pixel art farming game** as a personal project  
+- 🌱 Developing an **Bloomara**(pixel art farming game) as a personal project  
 - 🚀 Motivated to improve in **game design, programming, and problem-solving**  
 - 🌍 Open to collaboration and always learning new technologies  
 
