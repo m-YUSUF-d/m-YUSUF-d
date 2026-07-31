@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Physically Based Rendering (PBR) improves material realism.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Tile-based maps are commonly used in 2D game development.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
