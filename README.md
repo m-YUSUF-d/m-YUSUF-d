@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Data-Oriented Design (DOD) improves CPU cache efficiency.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Pathfinding algorithms like A* are used for NPC movement.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
