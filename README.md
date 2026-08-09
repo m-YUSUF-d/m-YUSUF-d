@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Premature optimization can waste valuable development time.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Avoid frequent memory allocations during gameplay.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
