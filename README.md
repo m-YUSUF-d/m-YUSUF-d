@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Fixed timestep simulations improve physics consistency.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Burst compilation can significantly improve C# performance.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
