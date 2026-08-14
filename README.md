@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Normal maps simulate surface detail without extra geometry.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Frustum culling prevents off-screen objects from being rendered.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
