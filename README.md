@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Indirect rendering allows the GPU to generate draw calls.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->A game loop runs continuously while the game is active.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
