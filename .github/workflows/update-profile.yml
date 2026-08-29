@@ -81,7 +81,7 @@ jobs:
 
           git add README.md profile/streak.svg
 
-          git commit -m "📝 Update profile - $(date -u '+%Y-%m-%d (UTC +0)%H:%M')"
+          git commit -m "📝 Update profile - $(date -u '+%Y-%m-%d  %H:%M (UTC +0)')"
 
           git push
 
