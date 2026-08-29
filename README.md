@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Bindless rendering reduces CPU overhead in modern graphics APIs.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Cache misses are usually more expensive than arithmetic operations.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
