@@ -2,7 +2,7 @@ name: Update Profile
 
 on:
   schedule:
-    - cron: "7 1 * * *"
+    - cron: "23 2 * * *"
 
   workflow_dispatch:
 
