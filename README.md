@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Floating-point precision decreases farther from the world origin.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Every millisecond saved per frame matters on mobile devices.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
