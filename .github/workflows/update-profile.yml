@@ -2,10 +2,8 @@ name: Update Profile
 
 on:
   schedule:
-    - cron: "23 2 * * *"
-
+    - cron: "23 2 * * *"   # her gün 02:23 UTC
   workflow_dispatch:
-
   push:
     paths:
       - ".github/workflows/update-profile.yml"
@@ -13,19 +11,16 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
 jobs:
   update-profile:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      # -------------------------
-      # Python / README updates
-      # -------------------------
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,37 +32,36 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser
 
-      - name: List files (debug)
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "Files in root:"
-          ls -la
+      # -------------------------------------------------
+      # 1) Medium'da yeni yazı varsa profile yaz
+      # -------------------------------------------------
+      - name: Update Medium posts
+        run: python fetch_medium.py
 
-      - name: Update README
-        run: |
-          python fetch_medium.py
-          python update_facts.py
+      # -------------------------------------------------
+      # 2) Profildeki metni (facts) güncelle
+      # -------------------------------------------------
+      - name: Update profile facts
+        run: python update_facts.py
 
-      # -------------------------
-      # Streak stats
-      # -------------------------
-
+      # -------------------------------------------------
+      # 3) Streak SVG'yi güncelle
+      # -------------------------------------------------
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
           options: user=${{ github.repository_owner }}&theme=dark&disable_animations=false
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # -------------------------
-      # Commit everything together
-      # -------------------------
-
+      # -------------------------------------------------
+      # Değişiklik varsa tek commit'te gönder
+      # -------------------------------------------------
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet; then
+          git add README.md profile/streak.svg
+          if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -76,13 +70,9 @@ jobs:
       - name: Commit and push all changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |
-          git config --local user.email "mydasdemir229@gmail.com"
+          git config --local user.email "<135694743>+m-yusuf-d@users.noreply.github.com"
           git config --local user.name "m-yusuf-d"
-
-          git add README.md profile/streak.svg
-
           git commit -m "📝 Update profile - $(date -u '+%Y-%m-%d -- %H:%M (UTC +0)')"
-
           git push
 
       - name: No changes detected
