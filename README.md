@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Cache-friendly data layouts often outperform object-oriented designs.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Mipmaps improve texture performance and reduce aliasing.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
