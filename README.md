@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Mipmaps improve texture performance and reduce aliasing.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Game optimization reduces lag and improves performance.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
