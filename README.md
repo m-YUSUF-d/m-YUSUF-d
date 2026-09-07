@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Server authority prevents many forms of cheating.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Event-driven systems reduce unnecessary object dependencies.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
