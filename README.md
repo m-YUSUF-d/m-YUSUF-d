@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Interpolation smooths movement between network updates.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Garbage collection spikes can cause visible frame drops.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
