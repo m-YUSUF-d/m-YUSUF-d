@@ -12,7 +12,7 @@ Hi there👋, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Shaders execute massively in parallel on the GPU.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Streaming assets allows seamless open-world experiences.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
