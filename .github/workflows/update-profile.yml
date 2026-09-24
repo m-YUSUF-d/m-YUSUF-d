@@ -2,7 +2,7 @@ name: Update Profile
 
 on:
   schedule:
-    - cron: "23 2 * * *"   # her gün 02:23 UTC
+    - cron: "13 1 * * *"   # her gün 02:23 UTC
   workflow_dispatch:
   push:
     paths:
