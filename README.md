@@ -1,6 +1,6 @@
 <p align="center"> 
 <h1 align="left">
-Hi there👋, I'm Mustafa Yusuf Daşdemir 
+Hi there🪽, I'm Mustafa Yusuf Daşdemir 
 <img  align="right" src="https://komarev.com/ghpvc/?username=m-yusuf-d&label=Profile%20views&color=0e75b6&style=flat" alt="m-yusuf-d" /> 
 </h1>
 </p>
