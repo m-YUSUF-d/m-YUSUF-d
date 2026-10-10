@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Frustum culling prevents off-screen objects from being rendered.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Behavior Trees scale better for complex AI logic.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
