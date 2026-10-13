@@ -67,7 +67,6 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 &nbsp;&nbsp;
 [<img src="Assets/Logos/medium.svg" alt="Medium" height="30" width="30">](https://medium.com/@MustafaYusufDasdemir)
 &nbsp;&nbsp;
-[<img src="Assets/Logos/itchio.svg" alt="itch.io" height="30" width="30">](https://aerofocus-studio.itch.io/)
 
 </div>
 
