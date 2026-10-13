@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Optimize the slowest systems first for maximum impact.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Premature optimization can waste valuable development time.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
