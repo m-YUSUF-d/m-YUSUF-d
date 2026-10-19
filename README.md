@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Shaders execute massively in parallel on the GPU.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Rollback netcode improves responsiveness in competitive games.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
