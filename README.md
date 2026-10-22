@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Delta time is used to make movement frame-rate independent.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Physically Based Rendering (PBR) improves material realism.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
