@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Loose coupling improves code maintainability.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Composition is generally more flexible than inheritance.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
