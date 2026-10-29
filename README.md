@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Frame pacing is as important as frame rate.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Compute shaders are ideal for GPU-heavy calculations.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
