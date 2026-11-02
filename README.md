@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->A stable frame time is more important than a high average FPS.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->GPU overdraw wastes fill rate on hidden pixels.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
