@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Spatial partitioning accelerates collision detection.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->GPU profiling is essential for graphics optimization.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
