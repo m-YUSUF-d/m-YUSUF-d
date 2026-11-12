@@ -12,7 +12,7 @@ Hi there🪽, I'm Mustafa Yusuf Daşdemir
 </p>
 
 <p align="center">
-<code><i>"<!-- DAILY_FACT_START -->Frame rate determines how smooth a game feels.<!-- DAILY_FACT_END -->"</i></code>  
+<code><i>"<!-- DAILY_FACT_START -->Large worlds often require floating origin systems.<!-- DAILY_FACT_END -->"</i></code>  
 </p>  
 
 ---
